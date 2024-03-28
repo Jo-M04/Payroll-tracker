@@ -23,4 +23,4 @@ The Payroll Tracker is a software tool designed to help businesses manage their 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/payroll-tracker.git
+   git clone git@github.com:Jo-M04/payroll-tracker.git
